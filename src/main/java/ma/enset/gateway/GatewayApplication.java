@@ -20,7 +20,7 @@ public class GatewayApplication {
 
 
 
-
+//gateway
 	@Bean
 	DiscoveryClientRouteDefinitionLocator definitionLocator(
 			ReactiveDiscoveryClient rdc,
